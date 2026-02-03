@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testeapk</string>
+    <string name="login_title">Bem-vindo</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_password">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_missing_fields">Preencha e-mail e senha.</string>
+    <string name="login_success">Login enviado com sucesso.</string>
+</resources>
